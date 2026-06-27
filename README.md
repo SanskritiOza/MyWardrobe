@@ -1,2 +1,2 @@
 # MyWardrobe
-Filtering out my Wardrobe using CoPilot
+Filtering out my Wardrobe using CoPilot from Australia
